@@ -1,17 +1,3 @@
-# Template website undangan pernikahan sederhana
-
-![Thumbnail](/assets/images/banner.png)
-![Thumbnail2](/assets/images/banner2.png)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cef32dbf-f26f-4865-84a9-b85a439c9994/deploy-status)](https://app.netlify.com/sites/ulems/deploys)
-[![Hits](https://dikit.my.id/0b3y8q)](https://cie.my.id)
-[![GitHub repo size](https://img.shields.io/github/repo-size/dewanakl/undangan?color=brightgreen)](https://shields.io)
-[![GitHub License](https://img.shields.io/github/license/dewanakl/undangan?color=brightgreen)](https://shields.io)
-
-## Demo
-Untuk kamu yang ingin melihat demo terlebih dahulu:
-
-[https://ulems.my.id](https://ulems.my.id/?to=Teman%20teman%20semua)
-
 ## Documentation
 
 - Jalankan: `npm install` serta `npm run dev`.
@@ -20,23 +6,6 @@ Untuk kamu yang ingin melihat demo terlebih dahulu:
 - Sesuaikan `data-url` pada body index dan dashboard sesuai domain backend (jika deploy sendiri).
 - Sesuaikan juga `data-key` dengan access key pada dashboard.
 - Jika ingin deploy: `npm run build` dan folder dist akan terbuat.
-- Self deployment backend bisa lihat dibawah ini atau ingin coba gratis selama 1 hari pada trial api.
-
-> Jika kamu punya pertanyaan, silakan gunakan fitur `discussions` agar teman-teman yang lain juga dapat mengetahuinya.
-
-## Deployment API
-
-- Video\
-    otw
-
-- Presentation
-    [https://docs.google.com/presentation](https://docs.google.com/presentation/d/1EY2YmWdZUI7ASoo0f2wvU7ec_Yt0uZanYa8YLbfNysk/edit)
-
-## Trial API
-Untuk kamu yang ingin mencoba secara gratis:
-
-[https://trial.ulems.my.id](https://trial.ulems.my.id)
-
 
 ## Tech stack
 
@@ -51,10 +20,6 @@ Untuk kamu yang ingin mencoba secara gratis:
 ## Contributing
 
 I'm very open to those of you who want to contribute to the undangan!
-
-## Security Vulnerabilities
-
-If you find any security vulnerabilities in this undangan, please email DKL via [dewanakretarta29@gmail.com](mailto:dewanakretarta29@gmail.com).
 
 ## License
 
